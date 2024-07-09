@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplikasi_Pom_Bensin", "Aplikasi_Pom_Bensin\Aplikasi_Pom_Bensin.csproj", "{F3EFC7CF-D57E-4B7F-8AA0-A5E1E121EB2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3EFC7CF-D57E-4B7F-8AA0-A5E1E121EB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EFC7CF-D57E-4B7F-8AA0-A5E1E121EB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EFC7CF-D57E-4B7F-8AA0-A5E1E121EB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EFC7CF-D57E-4B7F-8AA0-A5E1E121EB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7843726B-EB14-4DB3-8F63-40A7222A1CA2}
+	EndGlobalSection
+EndGlobal
